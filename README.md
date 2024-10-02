@@ -37,12 +37,6 @@ npm install
 npm run dev
 ```
 
-
-## Usage
-
-This code creates AWS
-
-
 ## Deployment
 
 ```shell
